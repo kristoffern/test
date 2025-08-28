@@ -101,9 +101,9 @@ Why else?
 
 </details>
 
-## Examples
-
 <details close>
+
+## Examples
   
   <summary>Click for evidence, case studies, usage cases and quotes from the research for this heuristic
   </summary> 
