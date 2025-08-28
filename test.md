@@ -103,10 +103,11 @@ Why else?
 
 <details close>
 
-## Examples
+<summary><h2>Examples</h2></summary>
+
   
-  <summary>Click for evidence, case studies, usage cases and quotes from the research for this heuristic
-  </summary> 
+  Click for evidence, case studies, usage cases and quotes from the research for this heuristic
+
 
   - Research Point: In the research leading to the design of these heuristics, we found there are often conflicting goals and expectations for the tools, and different perceptions of what problems needed resolving to enable improvement in working practices. 
   - Conflicting or unclear goals mean tool acquisition may be done in a short-term mindset. 
